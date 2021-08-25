@@ -1,4 +1,6 @@
+JavaSamples.iml
 bin/*
 .project
 .classpath
 .settings/*
+.idea/*
